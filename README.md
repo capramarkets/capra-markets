@@ -1,4 +1,4 @@
-Capra Network Updates
+Capra Markets Updates
 
 Current Version : v1.0
 
